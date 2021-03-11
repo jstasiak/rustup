@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.24.0] - 2021-03-??
+## [1.24.0] - 2021-03-18
 
 This release is mostly a bugfix and quality of life improvement release. However
 the headline for this release is support of `rust-toolchain.toml` as a filename
